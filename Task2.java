@@ -11,5 +11,5 @@ public class Task2{
     String output = "" + h + three + "ll" + zero + " w" + zero + "rld " + decimal + " " + truth;
 
     System.out.println(output);
-}
+    }
 }
